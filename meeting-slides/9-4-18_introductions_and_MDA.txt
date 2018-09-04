@@ -59,7 +59,7 @@ Get into groups of 4-6 with the people around you. Get to know each other!
 Using the theme, create a rough game design where you consider the Mechanics,
 Dynamics, and Aesthetics of a game. The theme is:
 'Industrial'
-When we've got ~5 minutes left, each group should send up a representative to describe
+When we've got ~15 minutes left, each group should send up a representative to describe
 their game design.
 
 Next meeting: Intro to Unity. Bring a laptop with Unity 2018 installed to follow along.
