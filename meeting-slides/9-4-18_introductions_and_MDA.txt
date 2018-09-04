@@ -1,0 +1,67 @@
+First meeting notes:
+
+No projector, so no formal slides- not that we were really going to use any.
+
+Few things to cover today-
+
+Officer Introductions
+-----------------------
+President: Chris Olsen
+Vice President: Ryan Lane
+Treasurer: Zach Long
+Secretary: Damien Brocato
+Event Coordinator: Vincent Di Nardo
+-----------------------
+
+How the vast majority of meetings go:
+One person gives a lecture/tutorial, with questions/sidebars encouraged.
+Technical tutorials assume no knowledge of tools used, aside from basic
+Unity skills gained in the first two technical meetings.
+Lectures generally are formatted as discussions, since most of the value
+comes from talking about the material. None of us are experts, after all.
+If you are interested in giving a lecture, email/message/grab an officer
+(especially Chris or Ryan) and tell us! We're going to maintain a calendar
+this year, so we'll have a better idea of what's going to be a topic farther
+in advance than in the past.
+
+Useful links:
+gobblerconnect.vt.edu - join the club roster!
+groups.google.com/a/vt.edu/forum/#!forum/vtgamingproject-g - join the listserv and view announcements!
+github.com/tuckrr/vtgp - VTGP git repo, you're probably here if you're reading this!
+Unity3d.com/unity - the game engine we'll be using for most meetings. Download it!
+
+Quick intro to MDA:
+MDA refers to the Mechanics, Dynamics, and Aesthetics framework which is a formal approach
+to understanding games. The methodology considers distinct aspects of game design in order
+to analyze what makes games fun, among other things. More detail: 'MDA: A Formal Approach
+to Game Design and Game Research' by Hunicke, LeBlanc, and Zubek. It's only 5 pages, and
+the pdf is available for free.
+
+Simply put, MDA is about defining the following parts of a game- 
+Mechanics: components of the game (data representation and algorithms)
+Dynamics: the way the mechanics respond to player input (gameplay)
+Aesthetics: the emotional responses evoked in the player when they interact with the game
+  Example Aesthetics:
+  Sensation
+  Fantasy
+  Narrative
+  Challenge
+  Fellowship
+  Discovery
+  Expression
+  Submission
+  Competition
+Roughly, the goal is to translate from the abstract Rules->System->Fun to
+the concrete Mechanics->Dynamics->Aesthetics.
+
+Activity:
+Get into groups of 4-6 with the people around you. Get to know each other!
+Using the theme, create a rough game design where you consider the Mechanics,
+Dynamics, and Aesthetics of a game. The theme is:
+'Industrial'
+When we've got ~5 minutes left, each group should send up a representative to describe
+their game design.
+
+Next meeting: Intro to Unity. Bring a laptop with Unity 2018 installed to follow along.
+
+Email questions to ctolsen@vt.edu

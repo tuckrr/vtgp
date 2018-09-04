@@ -1,6 +1,6 @@
 # Welcome to the VTGP Club Repository for 2018-19!
 
-Here you'll (eventually) find:
+### Here you'll (eventually) find:
 - Meeting starter projects
 - Finished Tutorial projects
 - Helpful links to game design and programming articles/sites
