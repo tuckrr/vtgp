@@ -5,12 +5,12 @@
 - 9/11: Unity 101
 - 9/18: Unity 102
 - 9/25: Minimum Viable Product
-- 10/2: UX + Unity Examples
+- 10/2: UI/UX
 - 10/9: Tutorials
 - 10/16: Game Jam Debrief
 
 ### Special Events:
-- 10/12 - 10/14 or 10/19 - 10/21: Fall Game Jam (tentative)
+- 5pm 10/12 - 6pm 0/14: Fall Game Jam (CS Lounge)
 
 ### Workshops:
 - Gauging interest for: Engine/low level game programming, Blender bootcamp, Love2D, Godot
